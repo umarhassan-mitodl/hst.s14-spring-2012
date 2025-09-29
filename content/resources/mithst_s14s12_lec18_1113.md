@@ -5,6 +5,8 @@ description: 'This resource contains information regarding Organizational Change
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/f00dfa64c5ae04a0ea826360cca7325a_MITHST_S14S12_lec18_1113.pdf
 file_size: 2557602
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

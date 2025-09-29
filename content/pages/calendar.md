@@ -3,6 +3,8 @@ content_type: page
 description: This section provides a calendar of material combined from both the Spring
   2011 and Spring 2012 versions of the course. It includes the list of topics, objectives,
   and lecturers for each lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

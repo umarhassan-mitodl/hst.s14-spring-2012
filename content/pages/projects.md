@@ -2,6 +2,8 @@
 content_type: page
 description: This section describes the final project process, milestones, and objectives,
   and includes several sample final presentations and final papers.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
