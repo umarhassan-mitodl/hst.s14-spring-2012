@@ -5,8 +5,6 @@ description: This resource contains information regarding Process improvement th
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/61cfac5add3eaf4d2cfa0ed3d53b4078_MITHST_S14S12_lec07_1105.pdf
 file_size: 743988
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

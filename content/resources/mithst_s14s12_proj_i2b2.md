@@ -5,8 +5,6 @@ description: 'This resource contains information regarding Designing a Public He
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/01f52906e7101bc8ca8e1639dd90a896_MITHST_S14S12_proj_i2b2.pdf
 file_size: 1081826
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

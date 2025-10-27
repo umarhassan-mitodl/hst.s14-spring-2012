@@ -5,8 +5,6 @@ description: 'This resource contains information regarding Health system design:
 file: /courses/hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012/eae182bb7466839e84c934af3ba3d488_MITHST_S14S12_lec21_1211.pdf
 file_size: 4525051
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
