@@ -43,8 +43,8 @@
     "website": "hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012"
   },
   "course_title": "Health Information Systems to Improve Quality of Care in Resource-Poor Settings",
-  "hide_download": true,
-  "course_description": "This course is a collaborative offering of [Sana](http://sana.mit.edu/), [Partners in Health](http://www.pih.org/), and the [Institute for Healthcare Improvement](https://www.ihi.org/) (IHI). The goal of this course is the development of innovations in information systems for developing countries that will (1) translate into improvement in health outcomes, (2) strengthen the existing organizational infrastructure, and (3) create a collaborative ecosystem to maximize the value of these innovations. The course will be taught by guest speakers who are internationally recognized experts in the field and who, with their operational experiences, will outline the challenges they faced and detail how these were addressed.\n\nThis OCW site combines resources from the initial Spring 2011 offering of the course (numbered HST.184) and the Spring 2012 offering (numbered HST.S14).",
+  "hide_download": false,
+  "course_description": "This course is a collaborative offering of {{% resource_link \"cf919ffc-df53-407b-9cd1-f4fc2f29b6d2\" \"Sana\" %}}, {{% resource_link \"1df12f39-db8f-4b3a-91e2-0841c2398a24\" \"Partners in Health\" %}}, and the {{% resource_link \"fd35b71b-ce93-4524-8860-1717669132a5\" \"Institute for Healthcare Improvement\" %}} (IHI). The goal of this course is the development of innovations in information systems for developing countries that will (1) translate into improvement in health outcomes, (2) strengthen the existing organizational infrastructure, and (3) create a collaborative ecosystem to maximize the value of these innovations. The course will be taught by guest speakers who are internationally recognized experts in the field and who, with their operational experiences, will outline the challenges they faced and detail how these were addressed.\n\nThis OCW site combines resources from the initial Spring 2011 offering of the course (numbered HST.184) and the Spring 2012 offering (numbered HST.S14).",
   "department_numbers": [
     "HST"
   ],
@@ -54,7 +54,6 @@
     "content": "3c4048da-7d6a-85eb-28cc-881f23c7d7fa",
     "website": "hst-s14-health-information-systems-to-improve-quality-of-care-in-resource-poor-settings-spring-2012"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
